@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Himanshu Panjwani</h1>
 <h3 align="center">A passionate VLSI enthusiast</h3>
 
-- 🔭 I’m currently working on **ESP32 Microcontroller with CAM module**
+- 🔭 I’m currently working on **Verilog HDL based project**
 
 - 🌱 I’m currently learning **FPGA and ASICs Design**
 
-- 👯 I’m looking to extend my knowledge on **Arduino and Raspberry Pi**
+- 👯 I’m looking to extend my knowledge in **VLSI field**
 
 - 📝 I often read articles on [https://techcrunch.com/](https://techcrunch.com/)
 
-- 💬 Ask me about **SystemVerilog , Chip Designing and Fabrication**
+- 💬 Ask me about **SystemVerilog , Chip Designing and ASIC Design Flow**
 
 - 📫 How to reach me **panjwanihimanshu26@gmail.com**
 
